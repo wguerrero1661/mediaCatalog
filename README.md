@@ -1,2 +1,2 @@
 # mediaCatalog
-TreeHousse Project
+Project
